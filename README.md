@@ -83,3 +83,18 @@ python scripts/cutout.py --project aphelia-memory/runs/demo
 python scripts/render.py --project aphelia-memory/runs/demo
 python scripts/qa.py --project aphelia-memory/runs/demo
 ```
+
+<!-- SAIFER_REPO_PASSPORT_BEGIN: #435 -->
+## Паспорт
+
+- **Что это:** Aphelia — Cursor plugin: vertical Reels 60–90s from any topic.
+- **Статус:** не знаю (работает / пауза / заморожено ❄️ / брошено — нет runtime-проверки).
+- **Где работает:** не знаю (сервер/ПК/сайт/облако не подтверждены).
+- **Как запустить или открыть:** [репозиторий](https://github.com/SaiferSMART/my_aphelia); запуск приложения — не знаю (ищите инструкции в README).
+- **Связанные открытые PR:** [актуальный список](https://github.com/SaiferSMART/my_aphelia/pulls?q=is%3Apr+is%3Aopen).
+- **Связанные открытые Issue:** [актуальный список](https://github.com/SaiferSMART/my_aphelia/issues?q=is%3Aissue+is%3Aopen).
+- **Дата последнего изменения GitHub:** 2026-09-03T15:50:36Z (поле `pushed_at`, любая ветка; не равно проверке эксплуатации).
+- **Кто ведёт:** не знаю; владелец репозитория GitHub — `SaiferSMART`.
+- **Вопрос к владелице:** подтвердить статус, площадку, точку входа и фактического ведущего.
+- **Задание:** [Issue №435](https://github.com/SaiferSMART/saifer-ai-ops/issues/435).
+<!-- SAIFER_REPO_PASSPORT_END -->
